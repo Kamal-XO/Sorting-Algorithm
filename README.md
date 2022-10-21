@@ -30,9 +30,7 @@ To write a program to perform selection sort and insertion sort using python pro
 <br>
 
 ## Program:
-
-## Program to sort the elements in the list using the Selection Sort algorithm.
-
+#### Program to sort the elements in the list using the Selection Sort algorithm.
 i)	#Selection Sort
 ```
 Developed by: your name: KAMALESH SV
